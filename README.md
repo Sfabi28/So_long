@@ -1,1 +1,2 @@
 needs libft
+needs minilibx
